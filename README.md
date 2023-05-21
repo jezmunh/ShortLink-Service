@@ -5,4 +5,4 @@ The simple site for shorting your URL links. This site was created via [RedBean 
 2. Move ``rb.php`` file into ``lib`` folder.
 3. Put your mysql user's data into ``db.php`` file.
 4. Create a database with ``shortlink`` name.
-5. Run you webserver and check the app.
+5. Run your webserver and check the app.
